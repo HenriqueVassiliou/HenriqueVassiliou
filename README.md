@@ -3,7 +3,7 @@
 ### Estou aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-<img src="https://www.evoluaprofissional.com.br/wp-content/uploads/2016/10/Para-Web_Montagem-e-Manuten%C3%A7%C3%A3o.png" width="150" height="60"/> 
+<img src="https://www.evoluaprofissional.com.br/wp-content/uploads/2016/10/Para-Web_Montagem-e-Manuten%C3%A7%C3%A3o.png" width="160" height="60"/> 
 
 
 Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa...
@@ -17,4 +17,4 @@ Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa.
 <a href = "mailto:henriquephvassiliou@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HenriqueVassiliou/blob/output/github-contribution-grid-snake.svg)
