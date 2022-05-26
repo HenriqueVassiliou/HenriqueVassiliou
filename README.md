@@ -1,9 +1,10 @@
 ### Olá pessoal! 👋
 
+### Estou aprendendo:
 
-#Meu nome é Henrique Vassiliou, e atualmente estou estudando a linguagem Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 
-#Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa...
+Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa...
 
 ### Contatos:
 
