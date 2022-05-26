@@ -1,9 +1,9 @@
 ### Olá pessoal! 👋
 
 
-**Meu nome é Henrique Vassiliou, e atualmente estou estudando a linguagem Java
+#Meu nome é Henrique Vassiliou, e atualmente estou estudando a linguagem Java
 
-**Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa...
+#Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa...
 
 ### Contatos:
 
