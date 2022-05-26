@@ -1,13 +1,9 @@
-### Hi there 👋
+### Olá pessoal! 👋
 
 
-**HenriqueVassiliou/HenriqueVassiliou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome é Henrique Vassiliou, e atualmente estou estudando a linguagem Java
 
-Here are some ideas to get you started:
-
-
-- 💬 Ask me about ...
-- 😄 Welcome: ...
+**Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa...
 
 ### Contatos:
 
