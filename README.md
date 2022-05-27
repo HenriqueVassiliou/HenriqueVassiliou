@@ -1,14 +1,13 @@
 ### Olá pessoal! 👋
 
 ### Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+                                                                                                                      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> __ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
 
 
 ### Estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-<img src="https://www.evoluaprofissional.com.br/wp-content/uploads/2016/10/Para-Web_Montagem-e-Manuten%C3%A7%C3%A3o.png" width="150" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> __ <img src="https://www.evoluaprofissional.com.br/wp-content/uploads/2016/10/Para-Web_Montagem-e-Manuten%C3%A7%C3%A3o.png" width="150" height="40"/> 
 
 
 Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa...
