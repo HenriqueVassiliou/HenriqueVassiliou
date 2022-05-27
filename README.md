@@ -1,4 +1,14 @@
-### Olá pessoal! 👋
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Henrique Vassiliou</h1>
+  
+### Olá pessoal! Sejam bem-vindos ao meu perfil! 👋
+ 
+  Para quem não me conhece, meu nome é Henrique Vassiliou, atualmente tenho 15 anos, moro em Santa Catarina, no Brasil e sou apixonado em aprender coisas novas! Estou cursando o ensino médio e 2 cursos profissionalizantes, de Java e Montagem e Manutenção de Computadores, Tablets e Celulares. Amo passar o tempo com a familia e amigos, jogar esportes e video games, ver filmes/series e estudar determinados assuntos.
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_mevr65Tt1i1s0odt8o1_500.gif" width="350">
+</p>
 
 ### Ferramentas e Tecnologias
 
@@ -23,6 +33,7 @@ Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa.
 <a href = "mailto:henriquephvassiliou@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+  
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueVassiliou&layout=compact&langs_count=7&theme=dracula"/>
