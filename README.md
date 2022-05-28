@@ -3,13 +3,15 @@
  <h1 align="left">Henrique Vassiliou</h1>
  
  <p align="center">
-  <img src="https://c.tenor.com/Gw-jI11oSC8AAAAC/loading-now-loading.gif" width="350">
+  <img src="https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-4.gif" width="350">
 </p>
-
-### Olá pessoal! Sejam bem-vindos ao meu perfil! 👋
+https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-4.gif
+ https://c.tenor.com/Gw-jI11oSC8AAAAC/loading-now-loading.gif
+## Olá pessoal! Sejam bem-vindos ao meu perfil! 👋
  
 
-## Ferramentas e Tecnologias
+
+## Ferramentas e Tecnologias:
  
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title = "WINDOWNS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code> 
@@ -17,7 +19,7 @@
  
 
 
-### Estou aprendendo:
+## Estou aprendendo:
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="180px" src="https://www.evoluaprofissional.com.br/wp-content/uploads/2016/10/Para-Web_Montagem-e-Manuten%C3%A7%C3%A3o.png" title = "MONTAGEM E MANUTENÇÃO DE COMPUTADORES"/></code>
