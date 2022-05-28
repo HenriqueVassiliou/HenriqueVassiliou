@@ -1,8 +1,12 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Henrique Vassiliou</h1>
-  
+ 
 ### Olá pessoal! Sejam bem-vindos ao meu perfil! 👋
+ 
+ p align="center">
+  <img src="https://c.tenor.com/Gw-jI11oSC8AAAAC/loading-now-loading.gif" width="350">
+</p>
  
   Para quem não me conhece, meu nome é Henrique Vassiliou, atualmente tenho 15 anos, moro em Santa Catarina, no Brasil e sou apixonado em aprender coisas novas! Estou cursando o ensino médio e 2 cursos profissionalizantes, de Java e Montagem e Manutenção de Computadores, Tablets e Celulares. Amo passar o tempo com a familia e amigos, jogar esportes e video games, ver filmes/series e estudar determinados assuntos.
 
