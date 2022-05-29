@@ -1,15 +1,23 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Henrique Vassiliou</h1>
- 
- <p align="center">
-  <img src="https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-4.gif" width="350">
-</p>
-https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-4.gif
- https://c.tenor.com/Gw-jI11oSC8AAAAC/loading-now-loading.gif
-## Olá pessoal! Sejam bem-vindos ao meu perfil! 👋
- 
+   
+ ![HENRIQUE SLOGAN](https://user-images.githubusercontent.com/104870402/170846351-70b618dc-cdc8-409e-b82c-8dca4d8bec2a.png)
+ <p>
+ (Não liguem, é só uma frase de efeito pra deixar o perfil legal)
 
+  
+## Olá pessoal! Sejam bem-vindos ao meu perfil! 👋
+ <p>
+ Sou estudante do 1º ano do ensino médio; 
+   <p>
+ Aprendiz de Java; 
+     <p>
+ Aprendiz de Montagem e Manutenção de Computadores;
+       <p>
+ Amo passar tempo com minha familia e amigos;
+ 
+##
 
 ## Ferramentas e Tecnologias:
  
@@ -17,7 +25,7 @@ https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-4.gif
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "PHOTOSHOP"/></code>
  
-
+##
 
 ## Estou aprendendo:
 
@@ -36,10 +44,11 @@ Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa.
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
+ ##
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueVassiliou&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueVassiliou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+ 
  
