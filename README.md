@@ -1,11 +1,11 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Henrique Vassiliou</h1>
-   
+ <! --  
  ![HENRIQUE SLOGAN](https://user-images.githubusercontent.com/104870402/170846351-70b618dc-cdc8-409e-b82c-8dca4d8bec2a.png)
  <p>
- (Não liguem, é só uma frase de efeito pra deixar o perfil legal)
-
+ <! -- (Não liguem, é só uma frase de efeito pra deixar o perfil legal)
+-->  
   
 ## Olá pessoal! Sejam bem-vindos ao meu perfil! 👋
  <p>
