@@ -1,6 +1,6 @@
 <div dsplay="inline-block">
  
- <h1 align="left">Henrique Vassiliou</h1>
+ <h1 align="center">Henrique Vassiliou</h1>
  <! --  
  ![HENRIQUE SLOGAN](https://user-images.githubusercontent.com/104870402/170846351-70b618dc-cdc8-409e-b82c-8dca4d8bec2a.png)
  <p>
@@ -21,19 +21,21 @@
 
 ## Ferramentas e Tecnologias:
  
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title = "WINDOWNS"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code> 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "PHOTOSHOP"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>        
-
-##
-
+<code ><img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title = "WINDOWNS"/></code>
+<code><img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code> 
+<code><img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "PHOTOSHOP"/></code>
+<code><img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>        
+             
+<hr/>
+<!--
 ## Estou aprendendo:
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
+          
 <code><img width="180px" src="https://www.evoluaprofissional.com.br/wp-content/uploads/2016/10/Para-Web_Montagem-e-Manuten%C3%A7%C3%A3o.png" title = "MONTAGEM E MANUTENÇÃO DE COMPUTADORES"/></code>
-
+--!>
 Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa...
 
 ### Contatos:
