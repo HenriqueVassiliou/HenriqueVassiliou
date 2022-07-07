@@ -1,24 +1,16 @@
 <div dsplay="inline-block">
  
  <h1 align="center">Henrique Vassiliou</h1>
-<!--  
- ![HENRIQUE SLOGAN](https://user-images.githubusercontent.com/104870402/170846351-70b618dc-cdc8-409e-b82c-8dca4d8bec2a.png)
- <p>
-  (Não liguem, é só uma frase de efeito pra deixar o perfil legal)
- -->
+
+ 
+  <br>
   
-## Olá pessoal! Sejam bem-vindos ao meu perfil! 👋
-<!--  <p>
- Sou estudante do 1º ano do ensino médio; 
-   <p>
- Aprendiz de Java; 
-     <p>
- Aprendiz de Montagem e Manutenção de Computadores;
-       <p>
- Amo passar tempo com minha familia e amigos; -->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00857B&width=600&height=100&size=20&multiline=true&lines=Hello!+Welcome!+my+name+is+Henrique+Vassiliou,;and+I+am+currently+a+novice+programming+student.;)](https://git.io/typing-svg)
+
+  <!-- <h2> Olá pessoal! Sejam bem-vindos ao meu perfil! 👋</h2> -->
  
 
- <h2>Ferramentas e Tecnologias:</h2>
+ <h2>Tools and Technologies:</h2>
  
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title = "WINDOWNS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code> 
@@ -27,6 +19,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3" /></code>
+
              
 <hr/>
 
