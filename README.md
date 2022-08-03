@@ -30,9 +30,8 @@
 <code><img width="180px" src="https://www.evoluaprofissional.com.br/wp-content/uploads/2016/10/Para-Web_Montagem-e-Manuten%C3%A7%C3%A3o.png" title = "MONTAGEM E MANUTENÇÃO DE COMPUTADORES"/></code> -->
 
 
-Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa...
-
-### Contatos:
+<!--Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa... -->
+<h2>Contacts:</h2>
 
 <div>
 <a href="https://www.youtube.com/channel/UCptop6oVY5-FTL1PSQSOmcA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -42,9 +41,10 @@ Eu ainda estou melhorando meu perfil do GitHub, então não esperem muita coisa.
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
- ##
+ <hr/>
+ 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/HenriqueVassiliou">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueVassiliou&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueVassiliou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
